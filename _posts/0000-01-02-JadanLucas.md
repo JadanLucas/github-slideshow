@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-owo
+I like sausage
 Use the left arrow to go back!
